@@ -3,3 +3,4 @@
 mkdir /createdbyscript
 touch /createdbyscript/testfile.txt
 echo "Testing Script file" >> /createdbyscript/testfile.txt
+echo " ADDED NOW"
